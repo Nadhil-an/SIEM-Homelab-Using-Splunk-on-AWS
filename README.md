@@ -11,6 +11,9 @@ This project strengthened my practical understanding of SIEM operations, cloud-b
 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
 --------------------------------------------------------------
  Splunk Enterprise 
+ 
  AWS EC2 
- Windows Server (Active Directory) 
+ 
+ Windows Server (Active Directory)
+ 
  Ubuntu | Apache | SPL
